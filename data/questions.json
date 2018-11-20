@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What name do Elves call Gandalf?",
+    "options": ["Gandalf the Grey","The White Wizard","Mithrandir","Glamdring"],
+    "answer": 2
+  },
+  {
+    "question": "Who is referred to as the Son of Glion?",
+    "options": ["Legolas","Gimli","Pippin","Durin"],
+    "answer": 1
+  },
+  {
+    "question": "What was Gollum's name before the got the ring?",
+    "options": ["Smeagol","Deagol","Deagan","Precious"],
+    "answer": 0
+  },
+  {
+    "question": "What's the name of Frodo's sword?",
+    "options": ["Killer","Glamdring","Sting","Mithrandir"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the actor to portray Saruman?",
+    "options": ["Ian McKellan","Viggo Mortenson","Christopher Lee","Peter Jackson"],
+    "answer": 2
+  }
+]

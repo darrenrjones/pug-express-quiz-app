@@ -1,0 +1,11 @@
+doctype html
+html(lang="en")
+  head
+    title lotr-quiz 
+    link(rel='stylesheet', href='/static/stylesheets/main.css')
+  body
+    include includes/header.pug
+    if name
+      h2= `Welcome, ${name}!`
+    block content      
+    include includes/footer.pug

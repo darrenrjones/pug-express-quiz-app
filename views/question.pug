@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  section#content
+    body
+      h1 questions
+      if q
+        p= q   
+      form(method='POST', action='/submitAnswer')
+        select
+          option(value=null selected= true) -- choose --
+          each option in answerOptionsArr
+            option(value=option)= option
+        button(type='submit') Submit
